@@ -1,0 +1,16 @@
+/Objects/*
+!/Objects/*.sct
+!/Objects/*.bin
+!/Objects/*.hex
+*.uvoptx*
+*.uvguix*
+JLink*
+*.scvd
+/old_code/Objects/*
+!/old_code/Objects/*.sct
+!/old_code/Objects/*.bin
+!/old_code/Objects/*.hex
+/old_code/*.uvoptx*
+/old_code/*.uvguix*
+/old_code/JLink*
+/old_code/*.scvd
